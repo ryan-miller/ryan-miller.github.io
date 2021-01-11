@@ -1,0 +1,33 @@
+* {
+    border-style: solid;
+    border-color: red;
+    border-width: 2px;
+}
+
+footer {
+    display:inline-block;
+    width: 100%;
+    background-color:thistle;
+}
+
+footer .left {
+    float: left;
+    padding-left: 100px;
+    padding-top: 20px;
+}
+
+footer .right {
+    float: right;
+    padding-right: 100px;
+    padding-top: 20px;
+}
+
+ul {
+    list-style: none;
+}
+
+#copyright {
+    clear: left;
+    text-align: center;
+    padding: 20px;
+}
